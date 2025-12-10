@@ -1,0 +1,2 @@
+- pkg:pypi/airflow-provider-nessie@0.1.0
+- pkg:pypi/airflow-provider-nessie@0.1.2
