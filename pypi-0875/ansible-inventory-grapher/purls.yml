@@ -1,0 +1,16 @@
+- pkg:pypi/ansible-inventory-grapher@1.0.0
+- pkg:pypi/ansible-inventory-grapher@1.0.1
+- pkg:pypi/ansible-inventory-grapher@1.0.3
+- pkg:pypi/ansible-inventory-grapher@2.1.0
+- pkg:pypi/ansible-inventory-grapher@2.2.0
+- pkg:pypi/ansible-inventory-grapher@2.3.0
+- pkg:pypi/ansible-inventory-grapher@2.3.1
+- pkg:pypi/ansible-inventory-grapher@2.4.0
+- pkg:pypi/ansible-inventory-grapher@2.4.1
+- pkg:pypi/ansible-inventory-grapher@2.4.2
+- pkg:pypi/ansible-inventory-grapher@2.4.3
+- pkg:pypi/ansible-inventory-grapher@2.4.4
+- pkg:pypi/ansible-inventory-grapher@2.4.5
+- pkg:pypi/ansible-inventory-grapher@2.5.0
+- pkg:pypi/ansible-inventory-grapher@2.5.0rc1
+- pkg:pypi/ansible-inventory-grapher@2.6.0
