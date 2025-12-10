@@ -1,0 +1,4 @@
+- pkg:pypi/buildout.sendpickedversions@0.1
+- pkg:pypi/buildout.sendpickedversions@0.2
+- pkg:pypi/buildout.sendpickedversions@0.3
+- pkg:pypi/buildout.sendpickedversions@1.0-alpha.1
