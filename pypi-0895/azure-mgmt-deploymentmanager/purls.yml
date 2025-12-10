@@ -1,0 +1,5 @@
+- pkg:pypi/azure-mgmt-deploymentmanager@0.1.0
+- pkg:pypi/azure-mgmt-deploymentmanager@0.2.0
+- pkg:pypi/azure-mgmt-deploymentmanager@1.0.0
+- pkg:pypi/azure-mgmt-deploymentmanager@1.0.0b1
+- pkg:pypi/azure-mgmt-deploymentmanager@2.0.0b1

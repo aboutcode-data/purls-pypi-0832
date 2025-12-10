@@ -1,0 +1,5 @@
+- pkg:pypi/azure-mgmt-servermanager@1.0.0
+- pkg:pypi/azure-mgmt-servermanager@1.1.0
+- pkg:pypi/azure-mgmt-servermanager@1.2.0
+- pkg:pypi/azure-mgmt-servermanager@2.0.0
+- pkg:pypi/azure-mgmt-servermanager@2.0.1
