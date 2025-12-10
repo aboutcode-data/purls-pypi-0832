@@ -1,0 +1,5 @@
+- pkg:pypi/activitypub.py@0.0.0.dev0
+- pkg:pypi/activitypub.py@0.0.1
+- pkg:pypi/activitypub.py@0.1.0
+- pkg:pypi/activitypub.py@0.1.1
+- pkg:pypi/activitypub.py@0.1.2
