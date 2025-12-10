@@ -1,0 +1,4 @@
+- pkg:pypi/boto3-pydantic-bedrock-agent@0.4.1
+- pkg:pypi/boto3-pydantic-bedrock-agent@1.0.0
+- pkg:pypi/boto3-pydantic-bedrock-agent@1.0.1
+- pkg:pypi/boto3-pydantic-bedrock-agent@1.0.2
