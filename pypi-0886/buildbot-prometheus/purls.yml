@@ -1,0 +1,6 @@
+- pkg:pypi/buildbot-prometheus@16.9.1
+- pkg:pypi/buildbot-prometheus@16.9.2
+- pkg:pypi/buildbot-prometheus@17.7.1
+- pkg:pypi/buildbot-prometheus@17.7.2
+- pkg:pypi/buildbot-prometheus@20.4.0
+- pkg:pypi/buildbot-prometheus@22.0.0
