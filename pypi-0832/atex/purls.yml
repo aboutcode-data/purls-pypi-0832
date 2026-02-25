@@ -1,4 +1,8 @@
 - pkg:pypi/atex@0.10
+- pkg:pypi/atex@0.11
+- pkg:pypi/atex@0.12
+- pkg:pypi/atex@0.13
+- pkg:pypi/atex@0.15
 - pkg:pypi/atex@0.5
 - pkg:pypi/atex@0.7
 - pkg:pypi/atex@0.8
