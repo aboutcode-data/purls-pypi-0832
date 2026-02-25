@@ -74,6 +74,7 @@
 - pkg:pypi/adstoolbox@2025.12.2.2
 - pkg:pypi/adstoolbox@2025.12.2.3
 - pkg:pypi/adstoolbox@2025.12.2.4
+- pkg:pypi/adstoolbox@2025.12.22
 - pkg:pypi/adstoolbox@2025.12.3
 - pkg:pypi/adstoolbox@2025.12.4
 - pkg:pypi/adstoolbox@2025.12.5
@@ -84,3 +85,9 @@
 - pkg:pypi/adstoolbox@2025.9.16.3
 - pkg:pypi/adstoolbox@2025.9.30
 - pkg:pypi/adstoolbox@2025.9.5
+- pkg:pypi/adstoolbox@2026.1.16
+- pkg:pypi/adstoolbox@2026.2.10
+- pkg:pypi/adstoolbox@2026.2.10.1
+- pkg:pypi/adstoolbox@2026.2.13
+- pkg:pypi/adstoolbox@2026.2.20
+- pkg:pypi/adstoolbox@2026.2.3

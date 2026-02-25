@@ -101,6 +101,9 @@
 - pkg:pypi/advent-of-code-wim@2024.8
 - pkg:pypi/advent-of-code-wim@2024.9
 - pkg:pypi/advent-of-code-wim@2025.1
+- pkg:pypi/advent-of-code-wim@2025.10
+- pkg:pypi/advent-of-code-wim@2025.11
+- pkg:pypi/advent-of-code-wim@2025.12
 - pkg:pypi/advent-of-code-wim@2025.2
 - pkg:pypi/advent-of-code-wim@2025.3
 - pkg:pypi/advent-of-code-wim@2025.4
