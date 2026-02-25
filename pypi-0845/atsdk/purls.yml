@@ -29,6 +29,8 @@
 - pkg:pypi/atsdk@0.2.50
 - pkg:pypi/atsdk@0.2.51
 - pkg:pypi/atsdk@0.2.52
+- pkg:pypi/atsdk@0.2.54
+- pkg:pypi/atsdk@0.2.57
 - pkg:pypi/atsdk@0.2.6
 - pkg:pypi/atsdk@0.2.7
 - pkg:pypi/atsdk@0.2.8
