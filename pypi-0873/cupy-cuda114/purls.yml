@@ -1,0 +1,12 @@
+- pkg:pypi/cupy-cuda114@10.0.0
+- pkg:pypi/cupy-cuda114@10.1.0
+- pkg:pypi/cupy-cuda114@10.2.0
+- pkg:pypi/cupy-cuda114@10.3.0
+- pkg:pypi/cupy-cuda114@10.3.1
+- pkg:pypi/cupy-cuda114@10.4.0
+- pkg:pypi/cupy-cuda114@10.5.0
+- pkg:pypi/cupy-cuda114@10.6.0
+- pkg:pypi/cupy-cuda114@9.3.0
+- pkg:pypi/cupy-cuda114@9.4.0
+- pkg:pypi/cupy-cuda114@9.5.0
+- pkg:pypi/cupy-cuda114@9.6.0

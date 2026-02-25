@@ -1,0 +1,4 @@
+- pkg:pypi/cvcuda-cu11@0.0.0
+- pkg:pypi/cvcuda-cu11@0.14.0
+- pkg:pypi/cvcuda-cu11@0.14.0b0
+- pkg:pypi/cvcuda-cu11@0.15.0
