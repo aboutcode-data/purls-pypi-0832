@@ -1,0 +1,6 @@
+- pkg:pypi/clickhouse-orm@2.2.0
+- pkg:pypi/clickhouse-orm@2.2.1
+- pkg:pypi/clickhouse-orm@2.2.2
+- pkg:pypi/clickhouse-orm@3.0.1
+- pkg:pypi/clickhouse-orm@3.1.0
+- pkg:pypi/clickhouse-orm@3.2.0
