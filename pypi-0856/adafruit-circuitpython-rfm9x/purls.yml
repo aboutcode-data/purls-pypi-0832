@@ -36,6 +36,7 @@
 - pkg:pypi/adafruit-circuitpython-rfm9x@2.2.2
 - pkg:pypi/adafruit-circuitpython-rfm9x@2.2.20
 - pkg:pypi/adafruit-circuitpython-rfm9x@2.2.21
+- pkg:pypi/adafruit-circuitpython-rfm9x@2.2.22
 - pkg:pypi/adafruit-circuitpython-rfm9x@2.2.3
 - pkg:pypi/adafruit-circuitpython-rfm9x@2.2.4
 - pkg:pypi/adafruit-circuitpython-rfm9x@2.2.5

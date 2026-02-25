@@ -22,6 +22,10 @@
 - pkg:pypi/addftool@0.2.10
 - pkg:pypi/addftool@0.2.11
 - pkg:pypi/addftool@0.2.13
+- pkg:pypi/addftool@0.2.14
+- pkg:pypi/addftool@0.2.15
+- pkg:pypi/addftool@0.2.16
+- pkg:pypi/addftool@0.2.17
 - pkg:pypi/addftool@0.2.2
 - pkg:pypi/addftool@0.2.3
 - pkg:pypi/addftool@0.2.4
