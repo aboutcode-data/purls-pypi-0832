@@ -1,0 +1,5 @@
+- pkg:pypi/clack@0.0.0-dev
+- pkg:pypi/clack@1.0.0
+- pkg:pypi/clack@1.0.0.dev0
+- pkg:pypi/clack@1.1.0
+- pkg:pypi/clack@1.2.0
