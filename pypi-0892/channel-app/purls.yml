@@ -68,6 +68,9 @@
 - pkg:pypi/channel-app@0.0.157a7
 - pkg:pypi/channel-app@0.0.157a8
 - pkg:pypi/channel-app@0.0.157a9
+- pkg:pypi/channel-app@0.0.157b1
+- pkg:pypi/channel-app@0.0.158
+- pkg:pypi/channel-app@0.0.158b1
 - pkg:pypi/channel-app@0.0.96
 - pkg:pypi/channel-app@0.0.97
 - pkg:pypi/channel-app@0.0.98

@@ -24,7 +24,13 @@
 - pkg:pypi/charmed-kubeflow-chisme@0.4.16
 - pkg:pypi/charmed-kubeflow-chisme@0.4.17
 - pkg:pypi/charmed-kubeflow-chisme@0.4.18
+- pkg:pypi/charmed-kubeflow-chisme@0.4.19
 - pkg:pypi/charmed-kubeflow-chisme@0.4.2
+- pkg:pypi/charmed-kubeflow-chisme@0.4.20
+- pkg:pypi/charmed-kubeflow-chisme@0.4.21
+- pkg:pypi/charmed-kubeflow-chisme@0.4.22
+- pkg:pypi/charmed-kubeflow-chisme@0.4.23
+- pkg:pypi/charmed-kubeflow-chisme@0.4.24
 - pkg:pypi/charmed-kubeflow-chisme@0.4.3
 - pkg:pypi/charmed-kubeflow-chisme@0.4.4
 - pkg:pypi/charmed-kubeflow-chisme@0.4.5
