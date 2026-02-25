@@ -37,6 +37,8 @@
 - pkg:pypi/airbyte-source-google-directory@0.2.42
 - pkg:pypi/airbyte-source-google-directory@0.2.43
 - pkg:pypi/airbyte-source-google-directory@0.2.44
+- pkg:pypi/airbyte-source-google-directory@0.2.45.dev202601271837
+- pkg:pypi/airbyte-source-google-directory@0.2.45.dev202601271847
 - pkg:pypi/airbyte-source-google-directory@0.2.5
 - pkg:pypi/airbyte-source-google-directory@0.2.6
 - pkg:pypi/airbyte-source-google-directory@0.2.7
