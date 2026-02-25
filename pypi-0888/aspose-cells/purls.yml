@@ -50,6 +50,7 @@
 - pkg:pypi/aspose-cells@25.1.0
 - pkg:pypi/aspose-cells@25.10.0
 - pkg:pypi/aspose-cells@25.11.0
+- pkg:pypi/aspose-cells@25.12.0
 - pkg:pypi/aspose-cells@25.2.0
 - pkg:pypi/aspose-cells@25.3.0
 - pkg:pypi/aspose-cells@25.4.0
@@ -58,3 +59,5 @@
 - pkg:pypi/aspose-cells@25.7.0
 - pkg:pypi/aspose-cells@25.8.0
 - pkg:pypi/aspose-cells@25.9.0
+- pkg:pypi/aspose-cells@26.1.0
+- pkg:pypi/aspose-cells@26.2.0

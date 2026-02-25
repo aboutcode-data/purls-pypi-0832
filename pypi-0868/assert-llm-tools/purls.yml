@@ -40,3 +40,6 @@
 - pkg:pypi/assert-llm-tools@0.7.5
 - pkg:pypi/assert-llm-tools@0.7.6
 - pkg:pypi/assert-llm-tools@0.8.0
+- pkg:pypi/assert-llm-tools@0.9.5
+- pkg:pypi/assert-llm-tools@0.9.6
+- pkg:pypi/assert-llm-tools@1.0.0
