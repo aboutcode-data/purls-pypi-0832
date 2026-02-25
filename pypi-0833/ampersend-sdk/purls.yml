@@ -1,2 +1,5 @@
+- pkg:pypi/ampersend-sdk@0.0.1
 - pkg:pypi/ampersend-sdk@0.0.1a1
 - pkg:pypi/ampersend-sdk@0.0.1a2
+- pkg:pypi/ampersend-sdk@0.0.6
+- pkg:pypi/ampersend-sdk@0.0.7

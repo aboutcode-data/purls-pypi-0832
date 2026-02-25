@@ -98,6 +98,7 @@
 - pkg:pypi/ambient-package-update@25.10.7
 - pkg:pypi/ambient-package-update@25.10.8
 - pkg:pypi/ambient-package-update@25.10.9
+- pkg:pypi/ambient-package-update@25.12.1
 - pkg:pypi/ambient-package-update@25.2.1
 - pkg:pypi/ambient-package-update@25.2.2
 - pkg:pypi/ambient-package-update@25.4.1
@@ -113,3 +114,4 @@
 - pkg:pypi/ambient-package-update@25.6.1
 - pkg:pypi/ambient-package-update@25.6.2
 - pkg:pypi/ambient-package-update@25.9.1
+- pkg:pypi/ambient-package-update@26.2.1

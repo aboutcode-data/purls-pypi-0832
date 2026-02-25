@@ -1,5 +1,6 @@
 - pkg:pypi/amazon-python@0.0.1
 - pkg:pypi/amazon-python@0.0.11
+- pkg:pypi/amazon-python@0.0.12
 - pkg:pypi/amazon-python@0.0.2
 - pkg:pypi/amazon-python@0.0.3
 - pkg:pypi/amazon-python@0.0.4
