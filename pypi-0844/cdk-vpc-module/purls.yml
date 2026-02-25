@@ -11,6 +11,7 @@
 - pkg:pypi/cdk-vpc-module@0.0.19
 - pkg:pypi/cdk-vpc-module@0.0.20
 - pkg:pypi/cdk-vpc-module@0.0.21
+- pkg:pypi/cdk-vpc-module@0.0.22
 - pkg:pypi/cdk-vpc-module@0.0.4
 - pkg:pypi/cdk-vpc-module@0.0.5
 - pkg:pypi/cdk-vpc-module@0.0.6
