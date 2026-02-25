@@ -37,3 +37,4 @@
 - pkg:pypi/cashfree-pg@4.3.7
 - pkg:pypi/cashfree-pg@4.3.8
 - pkg:pypi/cashfree-pg@4.5.1
+- pkg:pypi/cashfree-pg@5.0.5

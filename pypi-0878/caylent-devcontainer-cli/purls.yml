@@ -20,3 +20,8 @@
 - pkg:pypi/caylent-devcontainer-cli@1.7.1
 - pkg:pypi/caylent-devcontainer-cli@1.8.0
 - pkg:pypi/caylent-devcontainer-cli@1.9.0
+- pkg:pypi/caylent-devcontainer-cli@2.0.0
+- pkg:pypi/caylent-devcontainer-cli@2.0.1
+- pkg:pypi/caylent-devcontainer-cli@2.0.2
+- pkg:pypi/caylent-devcontainer-cli@2.0.3
+- pkg:pypi/caylent-devcontainer-cli@2.0.4
