@@ -68,6 +68,7 @@
 - pkg:pypi/azureml-contrib-functions@1.6.0
 - pkg:pypi/azureml-contrib-functions@1.60.0
 - pkg:pypi/azureml-contrib-functions@1.61.0
+- pkg:pypi/azureml-contrib-functions@1.62.0
 - pkg:pypi/azureml-contrib-functions@1.7.0
 - pkg:pypi/azureml-contrib-functions@1.8.0
 - pkg:pypi/azureml-contrib-functions@1.9.0
