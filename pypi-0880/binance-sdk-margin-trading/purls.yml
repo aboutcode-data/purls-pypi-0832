@@ -7,3 +7,10 @@
 - pkg:pypi/binance-sdk-margin-trading@2.3.0
 - pkg:pypi/binance-sdk-margin-trading@2.4.0
 - pkg:pypi/binance-sdk-margin-trading@3.0.0
+- pkg:pypi/binance-sdk-margin-trading@4.0.0
+- pkg:pypi/binance-sdk-margin-trading@4.1.0
+- pkg:pypi/binance-sdk-margin-trading@4.2.0
+- pkg:pypi/binance-sdk-margin-trading@4.3.0
+- pkg:pypi/binance-sdk-margin-trading@5.0.0
+- pkg:pypi/binance-sdk-margin-trading@5.1.0
+- pkg:pypi/binance-sdk-margin-trading@6.0.0
