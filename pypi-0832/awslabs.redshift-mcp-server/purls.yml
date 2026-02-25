@@ -2,6 +2,11 @@
 - pkg:pypi/awslabs.redshift-mcp-server@0.0.10
 - pkg:pypi/awslabs.redshift-mcp-server@0.0.11
 - pkg:pypi/awslabs.redshift-mcp-server@0.0.12
+- pkg:pypi/awslabs.redshift-mcp-server@0.0.13
+- pkg:pypi/awslabs.redshift-mcp-server@0.0.14
+- pkg:pypi/awslabs.redshift-mcp-server@0.0.15
+- pkg:pypi/awslabs.redshift-mcp-server@0.0.16
+- pkg:pypi/awslabs.redshift-mcp-server@0.0.17
 - pkg:pypi/awslabs.redshift-mcp-server@0.0.2
 - pkg:pypi/awslabs.redshift-mcp-server@0.0.3
 - pkg:pypi/awslabs.redshift-mcp-server@0.0.4

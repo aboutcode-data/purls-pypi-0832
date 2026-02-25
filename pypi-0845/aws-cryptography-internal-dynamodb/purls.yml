@@ -1,6 +1,7 @@
 - pkg:pypi/aws-cryptography-internal-dynamodb@1.10.0
 - pkg:pypi/aws-cryptography-internal-dynamodb@1.11.0
 - pkg:pypi/aws-cryptography-internal-dynamodb@1.11.1
+- pkg:pypi/aws-cryptography-internal-dynamodb@1.11.2
 - pkg:pypi/aws-cryptography-internal-dynamodb@1.7.1
 - pkg:pypi/aws-cryptography-internal-dynamodb@1.7.2
 - pkg:pypi/aws-cryptography-internal-dynamodb@1.7.3
