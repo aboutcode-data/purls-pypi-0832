@@ -15,3 +15,10 @@
 - pkg:pypi/ai-dynamo-runtime@0.6.1
 - pkg:pypi/ai-dynamo-runtime@0.7.0
 - pkg:pypi/ai-dynamo-runtime@0.7.0.post1
+- pkg:pypi/ai-dynamo-runtime@0.7.1
+- pkg:pypi/ai-dynamo-runtime@0.8.0
+- pkg:pypi/ai-dynamo-runtime@0.8.1
+- pkg:pypi/ai-dynamo-runtime@0.8.1.post1
+- pkg:pypi/ai-dynamo-runtime@0.8.1.post2
+- pkg:pypi/ai-dynamo-runtime@0.8.1.post3
+- pkg:pypi/ai-dynamo-runtime@0.9.0

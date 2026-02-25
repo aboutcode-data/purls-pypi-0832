@@ -223,7 +223,13 @@
 - pkg:pypi/aheadworks-deploy-manager@1.8.12
 - pkg:pypi/aheadworks-deploy-manager@1.8.13
 - pkg:pypi/aheadworks-deploy-manager@1.8.14
+- pkg:pypi/aheadworks-deploy-manager@1.8.15
+- pkg:pypi/aheadworks-deploy-manager@1.8.16
+- pkg:pypi/aheadworks-deploy-manager@1.8.17
+- pkg:pypi/aheadworks-deploy-manager@1.8.18
+- pkg:pypi/aheadworks-deploy-manager@1.8.19
 - pkg:pypi/aheadworks-deploy-manager@1.8.2
+- pkg:pypi/aheadworks-deploy-manager@1.8.20
 - pkg:pypi/aheadworks-deploy-manager@1.8.3
 - pkg:pypi/aheadworks-deploy-manager@1.8.4
 - pkg:pypi/aheadworks-deploy-manager@1.8.5
