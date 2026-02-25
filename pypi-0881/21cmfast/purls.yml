@@ -21,4 +21,6 @@
 - pkg:pypi/21cmfast@3.3.0
 - pkg:pypi/21cmfast@3.3.1
 - pkg:pypi/21cmfast@3.4.0
+- pkg:pypi/21cmfast@4.0.0
 - pkg:pypi/21cmfast@4.0.0b0
+- pkg:pypi/21cmfast@4.1.0
