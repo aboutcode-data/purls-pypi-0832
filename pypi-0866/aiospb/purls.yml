@@ -29,6 +29,7 @@
 - pkg:pypi/aiospb@8.0.10
 - pkg:pypi/aiospb@8.0.11
 - pkg:pypi/aiospb@8.0.12
+- pkg:pypi/aiospb@8.0.13
 - pkg:pypi/aiospb@8.0.2
 - pkg:pypi/aiospb@8.0.3
 - pkg:pypi/aiospb@8.0.4

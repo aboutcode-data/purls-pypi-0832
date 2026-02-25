@@ -17,6 +17,7 @@
 - pkg:pypi/aiosql@13.4
 - pkg:pypi/aiosql@14.0
 - pkg:pypi/aiosql@14.1
+- pkg:pypi/aiosql@15.0
 - pkg:pypi/aiosql@2.0.0
 - pkg:pypi/aiosql@2.0.1
 - pkg:pypi/aiosql@2.0.2

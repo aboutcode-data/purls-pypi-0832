@@ -16,6 +16,8 @@
 - pkg:pypi/aiosqlite@0.2.2
 - pkg:pypi/aiosqlite@0.20.0
 - pkg:pypi/aiosqlite@0.21.0
+- pkg:pypi/aiosqlite@0.22.0
+- pkg:pypi/aiosqlite@0.22.1
 - pkg:pypi/aiosqlite@0.3.0
 - pkg:pypi/aiosqlite@0.4.0
 - pkg:pypi/aiosqlite@0.5.0

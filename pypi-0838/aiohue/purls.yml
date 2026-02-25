@@ -64,3 +64,4 @@
 - pkg:pypi/aiohue@4.7.4
 - pkg:pypi/aiohue@4.7.5
 - pkg:pypi/aiohue@4.8.0
+- pkg:pypi/aiohue@4.8.1
