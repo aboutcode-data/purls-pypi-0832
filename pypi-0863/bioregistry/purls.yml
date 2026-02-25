@@ -286,7 +286,15 @@
 - pkg:pypi/bioregistry@0.13.10
 - pkg:pypi/bioregistry@0.13.11
 - pkg:pypi/bioregistry@0.13.12
+- pkg:pypi/bioregistry@0.13.13
+- pkg:pypi/bioregistry@0.13.14
+- pkg:pypi/bioregistry@0.13.15
+- pkg:pypi/bioregistry@0.13.16
+- pkg:pypi/bioregistry@0.13.17
+- pkg:pypi/bioregistry@0.13.18
+- pkg:pypi/bioregistry@0.13.19
 - pkg:pypi/bioregistry@0.13.2
+- pkg:pypi/bioregistry@0.13.20
 - pkg:pypi/bioregistry@0.13.3
 - pkg:pypi/bioregistry@0.13.4
 - pkg:pypi/bioregistry@0.13.5
