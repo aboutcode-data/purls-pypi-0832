@@ -9,6 +9,9 @@
 - pkg:pypi/bodo@2025.11.0
 - pkg:pypi/bodo@2025.11.1
 - pkg:pypi/bodo@2025.11.2
+- pkg:pypi/bodo@2025.12
+- pkg:pypi/bodo@2025.12.1
+- pkg:pypi/bodo@2025.12.2
 - pkg:pypi/bodo@2025.2
 - pkg:pypi/bodo@2025.2.1
 - pkg:pypi/bodo@2025.3
@@ -30,3 +33,5 @@
 - pkg:pypi/bodo@2025.8.1
 - pkg:pypi/bodo@2025.8.2
 - pkg:pypi/bodo@2025.9
+- pkg:pypi/bodo@2026.1
+- pkg:pypi/bodo@2026.2

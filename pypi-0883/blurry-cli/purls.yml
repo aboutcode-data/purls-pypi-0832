@@ -16,6 +16,11 @@
 - pkg:pypi/blurry-cli@0.2.1
 - pkg:pypi/blurry-cli@0.20.0
 - pkg:pypi/blurry-cli@0.20.1
+- pkg:pypi/blurry-cli@0.21.0
+- pkg:pypi/blurry-cli@0.22.0
+- pkg:pypi/blurry-cli@0.22.1
+- pkg:pypi/blurry-cli@0.22.2
+- pkg:pypi/blurry-cli@0.22.3
 - pkg:pypi/blurry-cli@0.3.0
 - pkg:pypi/blurry-cli@0.4.0
 - pkg:pypi/blurry-cli@0.4.1

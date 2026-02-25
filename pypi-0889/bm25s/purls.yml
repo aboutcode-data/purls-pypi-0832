@@ -39,6 +39,7 @@
 - pkg:pypi/bm25s@0.2.7rc3
 - pkg:pypi/bm25s@0.2.8
 - pkg:pypi/bm25s@0.2.9
+- pkg:pypi/bm25s@0.3.0
 - pkg:pypi/bm25s@0.3.0a1
 - pkg:pypi/bm25s@0.3.0a2
 - pkg:pypi/bm25s@0.3.0a3
