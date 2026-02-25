@@ -32,4 +32,6 @@
 - pkg:pypi/appfl@1.8.0
 - pkg:pypi/appfl@1.8.0.dev0
 - pkg:pypi/appfl@1.8.0.dev1
+- pkg:pypi/appfl@1.9.0
+- pkg:pypi/appfl@1.9.0.dev0
 - pkg:pypi/appfl@2.0.0
