@@ -5,6 +5,8 @@
 - pkg:pypi/alfen-eve-modbus-tcp@0.0.13
 - pkg:pypi/alfen-eve-modbus-tcp@0.0.14
 - pkg:pypi/alfen-eve-modbus-tcp@0.0.15
+- pkg:pypi/alfen-eve-modbus-tcp@0.0.16
+- pkg:pypi/alfen-eve-modbus-tcp@0.0.17
 - pkg:pypi/alfen-eve-modbus-tcp@0.0.5
 - pkg:pypi/alfen-eve-modbus-tcp@0.0.6
 - pkg:pypi/alfen-eve-modbus-tcp@0.0.7
