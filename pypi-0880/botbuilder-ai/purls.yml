@@ -25,6 +25,7 @@
 - pkg:pypi/botbuilder-ai@4.16.1
 - pkg:pypi/botbuilder-ai@4.16.2
 - pkg:pypi/botbuilder-ai@4.17.0
+- pkg:pypi/botbuilder-ai@4.17.1
 - pkg:pypi/botbuilder-ai@4.4.0b1
 - pkg:pypi/botbuilder-ai@4.4.0b2
 - pkg:pypi/botbuilder-ai@4.5.0b1
