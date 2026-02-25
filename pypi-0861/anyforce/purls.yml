@@ -188,6 +188,7 @@
 - pkg:pypi/anyforce@0.44.7
 - pkg:pypi/anyforce@0.45.0
 - pkg:pypi/anyforce@0.45.1
+- pkg:pypi/anyforce@0.46.1
 - pkg:pypi/anyforce@0.5.0
 - pkg:pypi/anyforce@0.5.2
 - pkg:pypi/anyforce@0.5.3
