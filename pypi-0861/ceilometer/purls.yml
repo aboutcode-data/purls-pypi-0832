@@ -42,6 +42,7 @@
 - pkg:pypi/ceilometer@23.0.0
 - pkg:pypi/ceilometer@23.0.0.0rc1
 - pkg:pypi/ceilometer@23.0.1
+- pkg:pypi/ceilometer@23.0.2
 - pkg:pypi/ceilometer@24.0.0
 - pkg:pypi/ceilometer@24.0.0.0rc1
 - pkg:pypi/ceilometer@24.0.1

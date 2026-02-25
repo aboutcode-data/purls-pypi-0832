@@ -19,3 +19,4 @@
 - pkg:pypi/certbot-dns-duckdns@1.6
 - pkg:pypi/certbot-dns-duckdns@1.7.0
 - pkg:pypi/certbot-dns-duckdns@1.7.1
+- pkg:pypi/certbot-dns-duckdns@1.8.0

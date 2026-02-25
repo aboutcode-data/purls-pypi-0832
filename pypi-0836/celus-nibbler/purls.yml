@@ -20,3 +20,6 @@
 - pkg:pypi/celus-nibbler@12.2.3
 - pkg:pypi/celus-nibbler@12.3.0
 - pkg:pypi/celus-nibbler@12.4.0
+- pkg:pypi/celus-nibbler@12.4.1
+- pkg:pypi/celus-nibbler@13.0.0
+- pkg:pypi/celus-nibbler@13.1.0
