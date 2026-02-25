@@ -12,3 +12,6 @@
 - pkg:pypi/basefwx@3.2
 - pkg:pypi/basefwx@3.3.1
 - pkg:pypi/basefwx@3.4.0
+- pkg:pypi/basefwx@3.5.2
+- pkg:pypi/basefwx@3.5.3
+- pkg:pypi/basefwx@3.6.1
