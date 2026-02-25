@@ -42,3 +42,6 @@
 - pkg:pypi/alibabacloud-elasticsearch20170613@3.1.0
 - pkg:pypi/alibabacloud-elasticsearch20170613@4.0.0
 - pkg:pypi/alibabacloud-elasticsearch20170613@4.0.1
+- pkg:pypi/alibabacloud-elasticsearch20170613@5.0.0
+- pkg:pypi/alibabacloud-elasticsearch20170613@5.0.1
+- pkg:pypi/alibabacloud-elasticsearch20170613@5.0.2
