@@ -31,3 +31,7 @@
 - pkg:pypi/bpkio-python-sdk@2.7.0
 - pkg:pypi/bpkio-python-sdk@2.8.0
 - pkg:pypi/bpkio-python-sdk@2.9.0
+- pkg:pypi/bpkio-python-sdk@3.0.0
+- pkg:pypi/bpkio-python-sdk@3.1.0
+- pkg:pypi/bpkio-python-sdk@3.2.0
+- pkg:pypi/bpkio-python-sdk@3.2.1
