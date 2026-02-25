@@ -11,6 +11,8 @@
 - pkg:pypi/certpeek@2023.8.9
 - pkg:pypi/certpeek@2024.3.10
 - pkg:pypi/certpeek@2024.9.1
+- pkg:pypi/certpeek@2025.12.27
 - pkg:pypi/certpeek@2025.3.5
 - pkg:pypi/certpeek@2025.5.12
 - pkg:pypi/certpeek@2025.6.22
+- pkg:pypi/certpeek@2026.1.20

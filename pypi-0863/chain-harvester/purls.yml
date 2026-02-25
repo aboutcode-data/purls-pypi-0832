@@ -97,6 +97,12 @@
 - pkg:pypi/chain-harvester@2.0.1
 - pkg:pypi/chain-harvester@2.0.2
 - pkg:pypi/chain-harvester@2.1.0
+- pkg:pypi/chain-harvester@2.10.0
+- pkg:pypi/chain-harvester@2.10.1
+- pkg:pypi/chain-harvester@2.11.1
+- pkg:pypi/chain-harvester@2.11.2
+- pkg:pypi/chain-harvester@2.11.3
+- pkg:pypi/chain-harvester@2.12.0
 - pkg:pypi/chain-harvester@2.2.0
 - pkg:pypi/chain-harvester@2.3.0
 - pkg:pypi/chain-harvester@2.4.0
