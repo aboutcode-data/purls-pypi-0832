@@ -20,6 +20,7 @@
 - pkg:pypi/camcops-server@2.4.21
 - pkg:pypi/camcops-server@2.4.22
 - pkg:pypi/camcops-server@2.4.23
+- pkg:pypi/camcops-server@2.4.24
 - pkg:pypi/camcops-server@2.4.4
 - pkg:pypi/camcops-server@2.4.6
 - pkg:pypi/camcops-server@2.4.7
