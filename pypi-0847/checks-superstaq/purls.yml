@@ -56,7 +56,12 @@
 - pkg:pypi/checks-superstaq@0.5.55
 - pkg:pypi/checks-superstaq@0.5.56
 - pkg:pypi/checks-superstaq@0.5.57
+- pkg:pypi/checks-superstaq@0.5.58
+- pkg:pypi/checks-superstaq@0.5.59
 - pkg:pypi/checks-superstaq@0.5.6
+- pkg:pypi/checks-superstaq@0.5.60
+- pkg:pypi/checks-superstaq@0.5.61
+- pkg:pypi/checks-superstaq@0.5.62
 - pkg:pypi/checks-superstaq@0.5.7
 - pkg:pypi/checks-superstaq@0.5.8
 - pkg:pypi/checks-superstaq@0.5.9
