@@ -194,6 +194,7 @@
 - pkg:pypi/androidviewclient@23.4.1
 - pkg:pypi/androidviewclient@24.0.0
 - pkg:pypi/androidviewclient@24.1.0
+- pkg:pypi/androidviewclient@25.0.0
 - pkg:pypi/androidviewclient@4.10.0
 - pkg:pypi/androidviewclient@4.10.1
 - pkg:pypi/androidviewclient@4.10.2

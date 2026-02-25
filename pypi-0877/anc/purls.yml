@@ -73,9 +73,6 @@
 - pkg:pypi/anc@0.4.2
 - pkg:pypi/anc@0.4.20
 - pkg:pypi/anc@0.4.21
-- pkg:pypi/anc@0.4.22
-- pkg:pypi/anc@0.4.23
-- pkg:pypi/anc@0.4.24
 - pkg:pypi/anc@0.4.3
 - pkg:pypi/anc@0.4.4
 - pkg:pypi/anc@0.4.5

@@ -17,3 +17,5 @@
 - pkg:pypi/anaconda-cli-base@0.6.0
 - pkg:pypi/anaconda-cli-base@0.7.0
 - pkg:pypi/anaconda-cli-base@0.7.0rc0
+- pkg:pypi/anaconda-cli-base@0.8.0
+- pkg:pypi/anaconda-cli-base@0.8.1
