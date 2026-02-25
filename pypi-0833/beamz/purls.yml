@@ -1,6 +1,17 @@
 - pkg:pypi/beamz@0.0.1
 - pkg:pypi/beamz@0.1.1
+- pkg:pypi/beamz@0.1.10
+- pkg:pypi/beamz@0.1.11
+- pkg:pypi/beamz@0.1.12
+- pkg:pypi/beamz@0.1.13
+- pkg:pypi/beamz@0.1.15
+- pkg:pypi/beamz@0.1.16
+- pkg:pypi/beamz@0.1.17
+- pkg:pypi/beamz@0.1.18
+- pkg:pypi/beamz@0.1.19
 - pkg:pypi/beamz@0.1.2
+- pkg:pypi/beamz@0.1.20
 - pkg:pypi/beamz@0.1.3
 - pkg:pypi/beamz@0.1.4
 - pkg:pypi/beamz@0.1.5
+- pkg:pypi/beamz@0.2.0
