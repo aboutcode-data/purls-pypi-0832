@@ -21,8 +21,11 @@
 - pkg:pypi/capstone@5.0.4
 - pkg:pypi/capstone@5.0.5
 - pkg:pypi/capstone@5.0.6
+- pkg:pypi/capstone@5.0.7
 - pkg:pypi/capstone@6.0.0a1
 - pkg:pypi/capstone@6.0.0a2
 - pkg:pypi/capstone@6.0.0a3
 - pkg:pypi/capstone@6.0.0a4
 - pkg:pypi/capstone@6.0.0a5
+- pkg:pypi/capstone@6.0.0a6
+- pkg:pypi/capstone@6.0.0a7
