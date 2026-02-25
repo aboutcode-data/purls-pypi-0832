@@ -9,7 +9,17 @@
 - pkg:pypi/aiobmsble@0.12.1
 - pkg:pypi/aiobmsble@0.12.2b1
 - pkg:pypi/aiobmsble@0.13.0
+- pkg:pypi/aiobmsble@0.14.0
 - pkg:pypi/aiobmsble@0.14.0b1
+- pkg:pypi/aiobmsble@0.14.0b2
+- pkg:pypi/aiobmsble@0.14.1
+- pkg:pypi/aiobmsble@0.14.2
+- pkg:pypi/aiobmsble@0.15.0
+- pkg:pypi/aiobmsble@0.16.0
+- pkg:pypi/aiobmsble@0.17.0
+- pkg:pypi/aiobmsble@0.18.0
+- pkg:pypi/aiobmsble@0.18.0b5
+- pkg:pypi/aiobmsble@0.18.1
 - pkg:pypi/aiobmsble@0.2.0
 - pkg:pypi/aiobmsble@0.2.1
 - pkg:pypi/aiobmsble@0.2.2
