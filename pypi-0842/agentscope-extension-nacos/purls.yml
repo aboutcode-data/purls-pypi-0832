@@ -1,2 +1,3 @@
 - pkg:pypi/agentscope-extension-nacos@0.2.0
 - pkg:pypi/agentscope-extension-nacos@0.2.1
+- pkg:pypi/agentscope-extension-nacos@1.0.0
