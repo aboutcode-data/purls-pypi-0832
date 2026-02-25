@@ -7,6 +7,7 @@
 - pkg:pypi/argo-proxy@2.7.0.post1
 - pkg:pypi/argo-proxy@2.7.0.post2
 - pkg:pypi/argo-proxy@2.7.1.post1
+- pkg:pypi/argo-proxy@2.7.10
 - pkg:pypi/argo-proxy@2.7.2
 - pkg:pypi/argo-proxy@2.7.2.post1
 - pkg:pypi/argo-proxy@2.7.3
@@ -19,3 +20,13 @@
 - pkg:pypi/argo-proxy@2.7.7
 - pkg:pypi/argo-proxy@2.7.8
 - pkg:pypi/argo-proxy@2.7.8a0
+- pkg:pypi/argo-proxy@2.7.9
+- pkg:pypi/argo-proxy@2.8.0
+- pkg:pypi/argo-proxy@2.8.1
+- pkg:pypi/argo-proxy@2.8.2
+- pkg:pypi/argo-proxy@2.8.3
+- pkg:pypi/argo-proxy@2.8.4
+- pkg:pypi/argo-proxy@2.8.5
+- pkg:pypi/argo-proxy@2.8.6
+- pkg:pypi/argo-proxy@2.8.7
+- pkg:pypi/argo-proxy@2.8.7.post1
