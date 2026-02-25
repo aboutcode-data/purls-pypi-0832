@@ -1,3 +1,5 @@
+- pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.84.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.85.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.85.1
@@ -22,3 +24,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-bedrockinferenceprofile@2.99.0

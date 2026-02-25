@@ -28,6 +28,8 @@
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@1.181.0
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@1.181.1
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.10.0
+- pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.11.0
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.12.0
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.13.0
@@ -131,3 +133,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-fargate-eventbridge@2.99.0
